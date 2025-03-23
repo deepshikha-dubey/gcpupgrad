@@ -32,4 +32,4 @@ steps:
     args: 
       - 'push'
       - 'us-east1-docker.pkg.dev/upgradlabs-1738334790345/mydockerrgisty/myapp:$BUILD_ID'
-logsBucket: "gs://shikha17"
+
